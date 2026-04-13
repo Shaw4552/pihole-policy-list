@@ -1,0 +1,5 @@
+# Core CDN domains - recommended for Default group
+# Keep this conservative. Add only what actually reduces breakage in your environment.
+cloudflare.com
+fastly.com
+akamaihd.net

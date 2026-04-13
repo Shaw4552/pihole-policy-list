@@ -1,0 +1,9 @@
+# Apple core services - recommended for Default group
+# Reason: blocking these often breaks TLS trust, iCloud, captive portal checks, or Private Relay
+ocsp.apple.com
+ocsp2.apple.com
+mask.icloud.com
+mask-h2.icloud.com
+gateway.icloud.com
+captive.apple.com
+ocsp2.g.aaplimg.com

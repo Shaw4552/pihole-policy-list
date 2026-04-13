@@ -1,0 +1,5 @@
+# Microsoft trusted client services - recommended for Trusted group
+login.microsoftonline.com
+graph.microsoft.com
+office.com
+outlook.office.com

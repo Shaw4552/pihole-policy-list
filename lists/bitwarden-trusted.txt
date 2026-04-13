@@ -1,0 +1,5 @@
+# Bitwarden trusted client services - recommended for Trusted group
+api.bitwarden.com
+identity.bitwarden.com
+vault.bitwarden.com
+icons.bitwarden.net

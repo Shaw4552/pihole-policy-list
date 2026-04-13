@@ -1,0 +1,7 @@
+# Apple trusted client services - recommended for Trusted group
+# Reason: App Store, Apple CDN, software delivery, and client-facing Apple service endpoints
+xp.v.aaplimg.com
+amp-api-search-edge.apps.apple.com
+apps.apple.com
+itunes.apple.com
+xp.apple.com
