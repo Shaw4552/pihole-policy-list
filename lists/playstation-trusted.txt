@@ -1,0 +1,27 @@
+# PlayStation Network (PSN) Required Domains
+# Purpose: Ensure PSN connectivity, authentication, and content delivery
+
+playstation.net
+*.playstation.net
+
+sonyentertainmentnetwork.com
+*.sonyentertainmentnetwork.com
+
+psn.com
+*.psn.com
+
+scea.com
+*.scea.com
+
+sony.com
+*.sony.com
+
+# CDN / Content Delivery (Recommended)
+akamaized.net
+*.akamaized.net
+
+akadns.net
+*.akadns.net
+
+edgesuite.net
+*.edgesuite.net
