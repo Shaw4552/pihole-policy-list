@@ -25,3 +25,6 @@ akadns.net
 
 edgesuite.net
 *.edgesuite.net
+
+# Required for PSN session / telemetry handshake
+smetrics.aem.playstation.com
