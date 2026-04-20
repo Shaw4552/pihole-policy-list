@@ -1,0 +1,23 @@
+# Core Xbox services
+xboxlive.com
+*.xboxlive.com
+xbox.com
+*.xbox.com
+
+# Auth / Microsoft backbone
+login.live.com
+*.login.live.com
+*.microsoft.com
+
+# Connectivity checks
+msftncsi.com
+msftconnecttest.com
+
+# Game services
+*.playfabapi.com
+*.xboxservices.com
+
+# CDN dependencies (Xbox heavily uses these)
+*.akamaized.net
+*.azureedge.net
+*.trafficmanager.net

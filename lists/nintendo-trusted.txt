@@ -1,0 +1,16 @@
+# Core Nintendo services
+nintendo.net
+*.nintendo.net
+nintendo.com
+*.nintendo.com
+
+# Online + matchmaking
+*.nintendowifi.net
+*.srv.nintendo.net
+
+# Accounts + eShop
+accounts.nintendo.com
+*.eshop.nintendo.net
+
+# Updates / telemetry
+*.cdn.nintendo.net

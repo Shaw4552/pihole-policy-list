@@ -1,0 +1,7 @@
+# High-impact CDNs for gaming
+*.akamaized.net
+*.cloudfront.net
+*.fastly.net
+*.amazonaws.com
+*.edgekey.net
+*.edgesuite.net
