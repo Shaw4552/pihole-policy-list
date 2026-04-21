@@ -1,0 +1,9 @@
+# UniFi Control Plane Required Domains
+# Required for UDM Pro UI, authentication, and cloud services
+
+ui.com
+*.ui.com
+unifi.ui.com
+sso.ui.com
+account.ui.com
+geo.svc.ui.com
