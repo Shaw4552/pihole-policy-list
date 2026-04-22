@@ -1,0 +1,17 @@
+# Plex core services
+plex.tv
+*.plex.tv
+*.plex.direct
+*.plex.services
+
+# Metadata / auth
+meta.plex.tv
+pubsub.plex.bz
+
+# Streaming / relay / discovery
+*.plex.bz
+*.plexapp.com
+
+# CDN (keep minimal)
+*.cloudfront.net
+*.fastly.net
