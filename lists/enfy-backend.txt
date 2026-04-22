@@ -1,0 +1,3 @@
+*.amazonaws.com
+*.cloudfront.net
+*.akamaiedge.net
