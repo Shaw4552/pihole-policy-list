@@ -1,0 +1,17 @@
+# Core Sonos services
+*.sonos.com
+*.ws.sonos.com
+
+# Music services (add only what you use)
+*.spotify.com
+*.spotifycdn.com
+*.amazonaws.com
+*.deezer.com
+
+# Time sync (CRITICAL)
+pool.ntp.org
+time.apple.com
+time.google.com
+
+# Firmware / updates
+update.sonos.com
