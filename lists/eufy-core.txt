@@ -1,0 +1,5 @@
+*.eufylife.com
+*.eufylife.io
+*.anker.com
+*.eufy.com
+*.amazonaws.com
