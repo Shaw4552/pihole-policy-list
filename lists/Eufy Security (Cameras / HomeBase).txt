@@ -1,0 +1,7 @@
+security-app.eufylife.com
+aiot-security-prod.eufylife.com
+aiot-security-prod-us.eufylife.com
+aiot-security-prod-eu.eufylife.com
+p2p-eu.eufylife.com
+p2p-us.eufylife.com
+device-api.eufylife.com
