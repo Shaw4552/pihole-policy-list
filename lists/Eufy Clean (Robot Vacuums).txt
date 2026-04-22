@@ -1,0 +1,2 @@
+clean-api.eufylife.com
+clean-app.eufylife.com
